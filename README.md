@@ -1,2 +1,2 @@
 # c-plus-plus
-Projects written in C++.
+Projects written in C++
